@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/web_server.dir/src/http_conn.cpp.o CMakeFiles/web_server.dir/src/main.cpp.o CMakeFiles/web_server.dir/src/threadpool.cpp.o  -o web_server -lm 

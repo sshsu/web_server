@@ -1,0 +1,4 @@
+/home/woder/Downloads/clion-2017.2.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/woder/project/linux高性能服务器编程/15_pool/web_server
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/woder/project/linux高性能服务器编程/15_pool/web_server/cmake-build-debug
